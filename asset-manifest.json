@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deployDegrees/static/css/main.2d8c2155.chunk.css",
+    "main.js": "/deployDegrees/static/js/main.4bd64c25.chunk.js",
+    "main.js.map": "/deployDegrees/static/js/main.4bd64c25.chunk.js.map",
+    "runtime-main.js": "/deployDegrees/static/js/runtime-main.bff0aa9d.js",
+    "runtime-main.js.map": "/deployDegrees/static/js/runtime-main.bff0aa9d.js.map",
+    "static/js/2.7fb88d0b.chunk.js": "/deployDegrees/static/js/2.7fb88d0b.chunk.js",
+    "static/js/2.7fb88d0b.chunk.js.map": "/deployDegrees/static/js/2.7fb88d0b.chunk.js.map",
+    "static/js/3.dfea0f19.chunk.js": "/deployDegrees/static/js/3.dfea0f19.chunk.js",
+    "static/js/3.dfea0f19.chunk.js.map": "/deployDegrees/static/js/3.dfea0f19.chunk.js.map",
+    "index.html": "/deployDegrees/index.html",
+    "static/css/main.2d8c2155.chunk.css.map": "/deployDegrees/static/css/main.2d8c2155.chunk.css.map",
+    "static/js/2.7fb88d0b.chunk.js.LICENSE.txt": "/deployDegrees/static/js/2.7fb88d0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bff0aa9d.js",
+    "static/js/2.7fb88d0b.chunk.js",
+    "static/css/main.2d8c2155.chunk.css",
+    "static/js/main.4bd64c25.chunk.js"
+  ]
+}
